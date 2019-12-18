@@ -1,10 +1,6 @@
 # Data-Analyst-Code-Explanation-
 This repo contains coding projects I did, explanation of code written and outcomes 
 
-### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
-#### Deployed data science algorithm on real-time data and wrote white paper on preventing Supply Chain Distribution Center failure.  
-[* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md)  
-
 ### **Marketing Analytics, Reporting, Strategy and Implimentation - [Link](Marketing_Analytics)**  
 #### Created algorithms, led cross-functional teams and created enterprise strategies/presentations valued at $100 Million plus for Marketing functions within Fortune 50 retailer. 
 [* Guest Engagement Through Life Changes](https://github.com/wisconsin545/Landing2/blob/master/Marketing_Analytics/Guest%20Engagement%20Through%20Life%20Changes.md)    
